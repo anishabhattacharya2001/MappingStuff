@@ -1,20 +1,3 @@
-Name: Godbless Chille
-
-Name: Anisha Bhattacharya
-
-CSC 172 PROJECT3
-
-NETID: gchille
-
-NETID: abhatta9
-
-NETID no. 31528986
-
-NETID no. 31564472
-
-email: gchille@u.rochester.edu
-
-email: abhatta9@u.rochester.edu
 
  
 This Project was about using graph data structures and making use of algorithms like Dijkstra's algorithm and Kruskal's algorithms. 
